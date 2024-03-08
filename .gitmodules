@@ -1,0 +1,15 @@
+[submodule "Omnix-Level-00"]
+	path = Omnix-Level-00
+	url = https://github.com/itsdevlogger/Omnix-Level-00
+[submodule "Omnix-Level-01"]
+	path = Omnix-Level-01
+	url = https://github.com/itsdevlogger/Omnix-Level-01
+[submodule "Omnix-Level-02"]
+	path = Omnix-Level-02
+	url = https://github.com/itsdevlogger/Omnix-Level-02
+[submodule "Omnix-Level-03"]
+	path = Omnix-Level-03
+	url = https://github.com/itsdevlogger/Omnix-Level-03
+[submodule "Omnix-Level-Max"]
+	path = Omnix-Level-Max
+	url = https://github.com/itsdevlogger/Omnix-Level-Max
